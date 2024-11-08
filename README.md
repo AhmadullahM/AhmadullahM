@@ -26,18 +26,11 @@
 
 
 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.00%20PM.jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM%20(1).jpeg" width="30%"></img>
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM%20(2).jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM.jpeg" width="30%"></img>
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(1).jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(2).jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(3).jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM.jpeg" width="30%"></img>
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM%20(1).jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM%20(2).jpeg" width="30%"></img>
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM.jpeg" width="30%"></img> 
-<img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.04%20PM.jpeg" width="30%"></img> 
+| ![Image 1](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.00%20PM.jpeg) | ![Image 2](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM%20(1).jpeg) | ![Image 3](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM%20(2).jpeg) |
+|---|---|---|
+| ![Image 4](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.01%20PM.jpeg) | ![Image 5](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(1).jpeg) | ![Image 6](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(2).jpeg) |
+| ![Image 7](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM%20(3).jpeg) | ![Image 8](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.02%20PM.jpeg) | ![Image 9](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM%20(1).jpeg) |
+| ![Image 10](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM%20(2).jpeg) | ![Image 11](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.03%20PM.jpeg) | ![Image 12](https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.04%20PM.jpeg) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
