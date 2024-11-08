@@ -7,45 +7,23 @@
 
 <h3 align="left">𝗠𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗪𝗼𝗿𝗸 𝗜𝗻𝗰𝗹𝘂𝗱𝗲𝘀:</h3>
 
-<table>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      • WordPress theme with Elementor builder <br>
-      • WordPress ACF Custom Fields <br>
-      • WordPress Website speed optimization <br>
-      • WordPress theme with Gutenberg blocks <br>
-      • WordPress assistant using Elementor <br>
-      • WordPress installation and setup <br>
-      • Converting Figma to WordPress theme <br>
-      • WordPress bug fixes <br>
-      • Theme customization <br>
-      • Convert HTML/PHP to WordPress <br>
-      • Transfer Website to WordPress <br>
-      • E-Commerce Website <br>
-      • Build responsive WordPress website <br>
-      • PSD to WordPress theme conversion <br>
-    </td>
-    <td align="left" valign="top" width="50%">
-      • Backup and Restore <br>
-      • Web development with use of CMS <br>
-      • WordPress using Elementor <br>
-      • Redesigning the website on WordPress <br>
-      • Responsive WordPress design <br>
-      • WordPress HTML work <br>
-      • Yoast SEO on WordPress <br>
-      • Solve WooCommerce setup issues <br>
-      • Ensure security of your WordPress site <br>
-      • Domain migration between WordPress hosts <br>
-      • Remove and fix Malware on WordPress <br>
-      • Customized theme development <br>
-      • Seamless plugin integration on WordPress <br>
-      • SEO & Page Speed Optimization <br>
-      • Optimize CSS & JS <br>
-      • Site speed optimization in Gtmetix <br>
-      • Google PageSpeed Insight Optimization <br>
-    </td>
-  </tr>
-</table>
+| WordPress Services | E-Commerce Services | Additional WordPress Services |
+|--------------------|---------------------|-------------------------------|
+| • WordPress theme with Elementor builder | • E-Commerce Website | • Backup and Restore |
+| • WordPress ACF Custom Fields | • Build responsive WordPress website | • Web development with use of CMS |
+| • WordPress Website speed optimization | • PSD to WordPress theme conversion | • WordPress using Elementor |
+| • WordPress theme with Gutenberg blocks | • SEO & Page Speed Optimization | • Redesigning the website on WordPress |
+| • WordPress assistant using Elementor | • Optimize CSS & JS | • Responsive WordPress design |
+| • WordPress installation and setup | • Site speed optimization in Gtmetrix | • WordPress HTML work |
+| • Converting Figma to WordPress theme | • Google PageSpeed Insight Optimization | • Yoast SEO on WordPress |
+| • WordPress bug fixes | • WooCommerce integration and customization | • Solve WooCommerce setup issues |
+| • Theme customization | • Setting up payment gateways | • Ensure security of your WordPress site |
+| • Convert HTML/PHP to WordPress | • Product catalog and inventory management | • Domain migration between WordPress hosts |
+| • Transfer Website to WordPress | • Custom checkout flow optimization | • Remove and fix Malware on WordPress |
+| | • Subscription and membership setup | • Customized theme development |
+| | • E-commerce SEO optimization | • Seamless plugin integration on WordPress |
+
+
 
 
 <img src="https://github.com/AhmadullahM/AhmadullahM/blob/main/WhatsApp%20Image%202024-11-08%20at%2010.27.00%20PM.jpeg" width="30%"></img> 
