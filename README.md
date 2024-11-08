@@ -5,19 +5,53 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadullahm" alt="ahmadullahm" /></a> </p>
 
-- 𝗠𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗪𝗼𝗿𝗸 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀: **✔️ WordPress theme with Elementor builder**
+<h3 align="left" style="font-family: Arial, sans-serif; font-weight: 600; color: #005f73;">𝗠𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗪𝗼𝗿𝗸 𝗜𝗻𝗰𝗹𝘂𝗱𝗲𝘀:</h3>
 
-- ✔️ WordPress installation and setup **✔️ Converting Figma to WordPress theme**
+<div style="display: flex; flex-wrap: wrap; color: #0a9396; font-family: Arial, sans-serif; font-size: 15px; line-height: 1.8;">
 
-- ✔️ WordPress ACF Custom Fields **✔️ Website speed optimization**
+  <!-- Column 1 -->
+  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
+    <p style="margin: 0;">• WordPress theme with Elementor builder</p>
+    <p style="margin: 0;">• WordPress ACF Custom Fields</p>
+    <p style="margin: 0;">• WordPress Website speed optimization</p>
+    <p style="margin: 0;">• WordPress theme with Gutenberg blocks</p>
+    <p style="margin: 0;">• WordPress assistant using Elementor</p>
+    <p style="margin: 0;">• WordPress installation and setup</p>
+    <p style="margin: 0;">• Converting Figma to WordPress theme</p>
+    <p style="margin: 0;">• WordPress bug fixes</p>
+    <p style="margin: 0;">• Theme customization</p>
+    <p style="margin: 0;">• Convert HTML/PHP to WordPress</p>
+    <p style="margin: 0;">• Transfer Website to WordPress</p>
+    <p style="margin: 0;">• E-Commerce Website</p>
+    <p style="margin: 0;">• Build responsive WordPress website</p>
+    <p style="margin: 0;">• PSD to WordPress theme conversion</p>
+  </div>
 
-- ✔️ WordPress theme with Gutenberg blocks **✔️ WordPress assistant using Elementor**
+  <!-- Column 2 -->
+  <div style="flex: 1; min-width: 250px;">
+    <p style="margin: 0;">• Backup and Restore</p>
+    <p style="margin: 0;">• Web development with CMS</p>
+    <p style="margin: 0;">• WordPress using Elementor</p>
+    <p style="margin: 0;">• Redesigning the website on WordPress</p>
+    <p style="margin: 0;">• Responsive WordPress design</p>
+    <p style="margin: 0;">• WordPress HTML work</p>
+    <p style="margin: 0;">• Yoast SEO on WordPress</p>
+    <p style="margin: 0;">• Solve WooCommerce setup issues</p>
+    <p style="margin: 0;">• Ensure security of your WordPress site</p>
+    <p style="margin: 0;">• Domain migration between WordPress hosts</p>
+    <p style="margin: 0;">• Remove and fix Malware on WordPress</p>
+    <p style="margin: 0;">• Customized theme development</p>
+    <p style="margin: 0;">• Seamless plugin integration on WordPress</p>
+    <p style="margin: 0;">• SEO & Page Speed Optimization</p>
+    <p style="margin: 0;">• Optimize CSS & JS</p>
+    <p style="margin: 0;">• Site speed optimization in Gtmetix</p>
+    <p style="margin: 0;">• Google PageSpeed Insight Optimization</p>
+  </div>
 
-- ✔️ WordPress bug fixes **✔️ Theme customization**
+</div>
 
-- ✔️ Convert HTML/PHP to WordPress **✔️ Transfer Website to WordPress**
 
-- ✔️ Build responsive WordPress website **✔️PSD to WordPress theme conversion**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
